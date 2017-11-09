@@ -1,0 +1,8 @@
+{
+  "name": "sehun-bot",
+  "version": "1.0.0",
+  "description": "Ult K-Pop Server Bot 1 - Sehun Bot",
+  "main": "bot.js",
+  "author": "wufanfan",
+  "dependencies": {}
+}
